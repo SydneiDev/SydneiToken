@@ -507,11 +507,11 @@
 			]
 		},
 		"Livestoken.sol": {
-			"keccak256": "0x86bb30baf59bd0f6616f4e8f63393e5d698d7190afe48d2c545a0eb0e77fae70",
+			"keccak256": "0xfb0ed3d7c9aae7a17ea335f25451dceb6579d3eb17adb6378eb0a7a07dbd3a20",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://cca5c5b7b284f9022d36f3e24d78baab0cec42094af9cef8878b6f611300dd86",
-				"dweb:/ipfs/QmbcSuZEmnBURFwe6oPEHXd7vuzMP9pmqKiY91L2qfeDaD"
+				"bzz-raw://e08cd2f316325e983e56318d5ef944b71287e703c72fce86b2737a0eeff7370d",
+				"dweb:/ipfs/Qma3WNvgHY7XZytnPq38C6e8ZzvCNYV8NvehRiNTFCDfvy"
 			]
 		}
 	},
